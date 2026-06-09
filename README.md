@@ -1,4 +1,5 @@
-# Java AI Algorithms\n\nThis repository contains implementations of various Artificial Intelligence (AI) algorithms and machine learning concepts using Java. It covers topics such as search algorithms, expert systems, neural networks, and more.
+# enterprise-spring-boot-api
 
+Enterprise-grade RESTful API built with Java Spring Boot and Hibernate.
 
-*Last updated: July 2024*
+Built with modern technologies in the Enterprise API niche.
